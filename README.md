@@ -2,7 +2,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-* 👀 Interesses: Sou programador na área de desenvolvimento de sistemas, com foco em desenvolver soluções eficazes e detalhadas e automatizadas.
+* 👀 Interesses: Sou programador na área de desenvolvimento de sistemas, com foco em desenvolver soluções eficazes e bem construidas e automatizadas.
 * 🌱 Atualmente estou aprendendo: Python, JavaScript, APIs, HTML E CSS.
 * 💞 Estou procurando colaborar em: Projetos de desenvolvimento de sites ou aplicativos. Se você estiver trabalhando em algo nessa área e precisar de colaboração, adoraria ajudar!
 * 📫 Como me encontrar: Você pode me contatar por e-mail em [Kayquegabriel.ads@gmail.com](mailto:Kayquegabriel.ads@gmail.com).
