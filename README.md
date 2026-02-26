@@ -8,8 +8,9 @@
 * 📫 Como me encontrar: Você pode me contatar por e-mail em [Kayquegabriel.ads@gmail.com](mailto:Kayquegabriel.ads@gmail.com).
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kayqueg88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div> 
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kayqueg88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kayqueg88&layout=compact&theme=dracula"/>
+</div>
 
 <br><br>
 ## 🚀 Skills
