@@ -13,7 +13,7 @@
 
 <br><br>
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,py,mysql,git&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,py,mysql,git&perline=4)](https://skillicons.dev)
 <br><br>
 ## 📫 Contato
 
