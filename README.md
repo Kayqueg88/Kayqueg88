@@ -9,7 +9,6 @@
 <br>
 <p align="center">
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kayqueg88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kayqueg88&layout=compact&theme=dracula"/>
 </p>
 
