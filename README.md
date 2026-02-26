@@ -7,9 +7,12 @@
 * 💞 Estou procurando colaborar em: Projetos de desenvolvimento de sites ou aplicativos. Se você estiver trabalhando em algo nessa área e precisar de colaboração, adoraria ajudar!
 * 📫 Como me encontrar: Você pode me contatar por e-mail em [Kayquegabriel.ads@gmail.com](mailto:Kayquegabriel.ads@gmail.com).
 <br>
+<br clear="right"/>
+
 <p align="center">
-  <img width="300px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kayqueg88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="335" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kayqueg88&layout=compact&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kayqueg88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kayqueg88&layout=compact&theme=dracula"/>
 </p>
 
 <br><br>
